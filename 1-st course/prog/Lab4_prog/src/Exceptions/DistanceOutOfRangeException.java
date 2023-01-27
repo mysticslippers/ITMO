@@ -2,7 +2,7 @@ package Exceptions;
 
 public class DistanceOutOfRangeException extends ArithmeticException{
 
-    public DistanceOutOfRangeException(){
-        super("Они перебежали замок!");
+    public DistanceOutOfRangeException(String message){
+        super(message);
     }
 }
