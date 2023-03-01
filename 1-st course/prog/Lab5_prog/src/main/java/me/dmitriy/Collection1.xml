@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tickets
+	><Ticket
+		><id>1</id>
+		<name>bilet</name>
+		<coordinates
+			><x>2.0</x>
+			<y>2</y>
+		</coordinates>
+		<zonedDateTime>2023-02-26T14:26:28.984836800</zonedDateTime>
+		<price>16.0</price>
+		<comment>bilet</comment>
+		<refundable>false</refundable>
+		<ticketType>USUAL</ticketType>
+		<venue
+			><venueId>1010</venueId>
+			<venueName>forest</venueName>
+			<capacity>1001</capacity>
+			<venueType>BAR</venueType>
+		</venue>
+	</Ticket>
+	<Ticket
+		><id>1</id>
+		<name>bilet</name>
+		<coordinates
+			><x>2.0</x>
+			<y>2</y>
+		</coordinates>
+		<zonedDateTime>2023-02-26T14:26:28.984836800</zonedDateTime>
+		<price>16.0</price>
+		<comment>bilet</comment>
+		<refundable>false</refundable>
+		<ticketType>USUAL</ticketType>
+		<venue
+			><venueId>1010</venueId>
+			<venueName>forest</venueName>
+			<capacity>1001</capacity>
+			<venueType>BAR</venueType>
+		</venue>
+	</Ticket>
+</Tickets>
