@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tickets
+	><Ticket
+		><id>2</id>
+		<name>dima</name>
+		<coordinates
+			><x>0.0</x>
+			<y>0</y>
+		</coordinates>
+		<zonedDateTime>2023-03-12T16:58:45.868933600</zonedDateTime>
+		<price>6.735127E8</price>
+		<comment>jkfjksdfjkhsdf</comment>
+		<refundable>true</refundable>
+		<ticketType>VIP</ticketType>
+		<venue
+			><venueId>2</venueId>
+			<venueName>hdgashjdg</venueName>
+			<capacity>1000</capacity>
+			<venueType>MALL</venueType>
+		</venue>
+	</Ticket>
+	<Ticket
+		><id>4</id>
+		<name>asfjgasdhjfg</name>
+		<coordinates
+			><x>6.7235672E7</x>
+			<y>5126735</y>
+		</coordinates>
+		<zonedDateTime>2023-03-12T16:58:45.848931200</zonedDateTime>
+		<price>6.723513E8</price>
+		<comment>jdisfhkjsdfhksd</comment>
+		<refundable>false</refundable>
+		<ticketType>VIP</ticketType>
+		<venue
+			><venueId>4</venueId>
+			<venueName>ljksdfhsdkf</venueName>
+			<capacity>10000</capacity>
+			<venueType>LOFT</venueType>
+		</venue>
+	</Ticket>
+</Tickets>
